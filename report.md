@@ -10,7 +10,7 @@
 
 #1 Валидные ключи признаны невалидными  - https://github.com/meleuz/keyval/issues/1
 
-#2 Невалидные ключи признаны валидными
+#2 Невалидные ключи признаны валидными  - https://github.com/meleuz/keyval/issues/2
 
 ## Описание процесса тестирования
 
@@ -19,6 +19,8 @@
 Техническое задание
 
 В качестве тестовых данных использовались данные из Технического задания:
+
+https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
 ## Ключи для проверки
 
