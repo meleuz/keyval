@@ -18,7 +18,7 @@
 
 Техническое задание - https://github.com/meleuz/keyval/blob/master/README.md
 
-https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+Руководство использования KeyValidator  - https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
 В качестве тестовых данных использовались данные из Технического задания:
 
