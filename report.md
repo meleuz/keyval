@@ -8,9 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-#1 Валидные ключи признаны невалидными  - https://github.com/meleuz/keyval/issues/1
+[#1 Валидные ключи признаны невалидными](https://github.com/meleuz/keyval/issues/1)
 
-#2 Невалидные ключи признаны валидными  - https://github.com/meleuz/keyval/issues/2
+[#2 Невалидные ключи признаны валидными](https://github.com/meleuz/keyval/issues/2)
 
 ## Описание процесса тестирования
 
